@@ -1,4 +1,4 @@
-## Creating Simple Login API using Go and Mongodb
+##  Login micro service using Go and Mongodb
 
 There are following end points :
 1. /register POST ( New user registration)
